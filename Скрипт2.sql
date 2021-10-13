@@ -1,0 +1,2 @@
+SELECT * FROM netology.PERSONS
+WHERE city = 'MOSCOW';
